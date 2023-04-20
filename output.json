@@ -1769,7 +1769,7 @@
             },
             {
                 "x": "2023-09-11",
-                "y": 39864
+                "y": 39863
             },
             {
                 "x": "2023-09-18",
@@ -1823,5 +1823,5 @@
         "now_future_direction": "up",
         "past_future_direction": "up"
     },
-    "last_prediction_time": "2023-04-20 06:49"
+    "last_prediction_time": "2023-04-20 06:50"
 }
