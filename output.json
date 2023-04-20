@@ -785,7 +785,7 @@
             },
             {
                 "x": "2023-04-23",
-                "y": 31067
+                "y": 31066
             },
             {
                 "x": "2023-04-24",
@@ -801,7 +801,7 @@
             },
             {
                 "x": "2023-04-27",
-                "y": 34703
+                "y": 34702
             },
             {
                 "x": "2023-04-28",
@@ -1682,7 +1682,7 @@
         "pred_percent": 1.34,
         "now": 28861,
         "now_percent": -5.04,
-        "future_now_price_diff": 1862,
+        "future_now_price_diff": 1863,
         "future_now_percent_diff": 6.38,
         "re-pred_price": 30622,
         "re-pred_percent": 1.01,
@@ -1705,7 +1705,7 @@
             },
             {
                 "x": "2023-05-22",
-                "y": 32929
+                "y": 32928
             },
             {
                 "x": "2023-05-29",
@@ -1823,5 +1823,5 @@
         "now_future_direction": "up",
         "past_future_direction": "up"
     },
-    "last_prediction_time": "2023-04-20 13:13"
+    "last_prediction_time": "2023-04-20 13:15"
 }
