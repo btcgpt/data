@@ -768,7 +768,7 @@
         ],
         "pred_price": 27826,
         "pred_percent": -1.58,
-        "now": 28247,
+        "now": 28246,
         "now_percent": -0.09,
         "future_now_price_diff": -420,
         "future_now_percent_diff": -1.49,
@@ -789,19 +789,19 @@
             },
             {
                 "x": "2023-04-25",
-                "y": 30551
+                "y": 30550
             },
             {
                 "x": "2023-04-26",
-                "y": 31392
+                "y": 31391
             },
             {
                 "x": "2023-04-27",
-                "y": 32269
+                "y": 32268
             },
             {
                 "x": "2023-04-28",
-                "y": 33180
+                "y": 33179
             },
             {
                 "x": "2023-04-29",
@@ -823,7 +823,7 @@
             },
             {
                 "x": "2023-04-22",
-                "y": 28247
+                "y": 28246
             }
         ],
         "yesterday_prediction_error_price": 162,
@@ -1680,9 +1680,9 @@
         ],
         "pred_price": 30724,
         "pred_percent": 1.34,
-        "now": 28247,
+        "now": 28246,
         "now_percent": -7.33,
-        "future_now_price_diff": 2477,
+        "future_now_price_diff": 2478,
         "future_now_percent_diff": 8.67,
         "re-pred_price": 30579,
         "re-pred_percent": 0.87,
@@ -1733,7 +1733,7 @@
             },
             {
                 "x": "2023-07-10",
-                "y": 36173
+                "y": 36172
             },
             {
                 "x": "2023-07-17",
@@ -1815,7 +1815,7 @@
             },
             {
                 "x": "2023-04-24",
-                "y": 28247
+                "y": 28246
             }
         ],
         "yesterday_prediction_error_price": -145,
@@ -1823,5 +1823,5 @@
         "now_future_direction": "up",
         "past_future_direction": "up"
     },
-    "last_prediction_time": "2023-04-21 04:56"
+    "last_prediction_time": "2023-04-21 04:58"
 }
