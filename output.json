@@ -1697,7 +1697,7 @@
             },
             {
                 "x": "2023-05-08",
-                "y": 31688
+                "y": 31687
             },
             {
                 "x": "2023-05-15",
@@ -1823,5 +1823,5 @@
         "now_future_direction": "up",
         "past_future_direction": "up"
     },
-    "last_prediction_time": "2023-04-21 21:03"
+    "last_prediction_time": "2023-04-21 21:04"
 }
