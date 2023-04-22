@@ -769,7 +769,7 @@
         "pred_price": 26986,
         "pred_percent": -1.05,
         "now": 27274,
-        "now_percent": -0.0,
+        "now_percent": 0.0,
         "future_now_price_diff": -287,
         "future_now_percent_diff": -1.05,
         "re-pred_price": 26986,
@@ -789,7 +789,7 @@
             },
             {
                 "x": "2023-04-26",
-                "y": 29657
+                "y": 29658
             },
             {
                 "x": "2023-04-27",
@@ -1823,5 +1823,5 @@
         "now_future_direction": "up",
         "past_future_direction": "up"
     },
-    "last_prediction_time": "2023-04-22 09:49"
+    "last_prediction_time": "2023-04-22 09:50"
 }
