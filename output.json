@@ -781,11 +781,11 @@
             },
             {
                 "x": "2023-04-25",
-                "y": 27286
+                "y": 27287
             },
             {
                 "x": "2023-04-26",
-                "y": 28118
+                "y": 28119
             },
             {
                 "x": "2023-04-27",
@@ -1823,5 +1823,5 @@
         "now_future_direction": "up",
         "past_future_direction": "up"
     },
-    "last_prediction_time": "2023-04-23 13:14"
+    "last_prediction_time": "2023-04-23 13:16"
 }
