@@ -770,14 +770,14 @@
         "pred_percent": -4.64,
         "now": 27640,
         "now_percent": -0.59,
-        "future_now_price_diff": -1124,
+        "future_now_price_diff": -1125,
         "future_now_percent_diff": -4.05,
-        "re-pred_price": 26404,
+        "re-pred_price": 26405,
         "re-pred_percent": -5.03,
         "pred_future2": [
             {
                 "x": "2023-04-24",
-                "y": 26404
+                "y": 26405
             },
             {
                 "x": "2023-04-25",
@@ -785,11 +785,11 @@
             },
             {
                 "x": "2023-04-26",
-                "y": 28137
+                "y": 28138
             },
             {
                 "x": "2023-04-27",
-                "y": 28910
+                "y": 28911
             },
             {
                 "x": "2023-04-28",
@@ -797,11 +797,11 @@
             },
             {
                 "x": "2023-04-29",
-                "y": 30539
+                "y": 30540
             },
             {
                 "x": "2023-04-30",
-                "y": 31409
+                "y": 31410
             },
             {
                 "x": "2023-05-01",
@@ -813,7 +813,7 @@
             },
             {
                 "x": "2023-05-03",
-                "y": 34156
+                "y": 34157
             }
         ],
         "now_s": [
@@ -1682,7 +1682,7 @@
         "pred_percent": 1.34,
         "now": 27640,
         "now_percent": -9.68,
-        "future_now_price_diff": 3084,
+        "future_now_price_diff": 3083,
         "future_now_percent_diff": 11.02,
         "re-pred_price": 30537,
         "re-pred_percent": 0.73,
@@ -1697,7 +1697,7 @@
             },
             {
                 "x": "2023-05-08",
-                "y": 31735
+                "y": 31736
             },
             {
                 "x": "2023-05-15",
@@ -1823,5 +1823,5 @@
         "now_future_direction": "up",
         "past_future_direction": "up"
     },
-    "last_prediction_time": "2023-04-23 12:11"
+    "last_prediction_time": "2023-04-23 12:12"
 }
