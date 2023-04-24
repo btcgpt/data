@@ -769,15 +769,15 @@
         "pred_price": 26953,
         "pred_percent": -2.26,
         "now": 27418,
-        "now_percent": -0.57,
+        "now_percent": -0.58,
         "future_now_price_diff": -464,
-        "future_now_percent_diff": -1.69,
-        "re-pred_price": 26845,
+        "future_now_percent_diff": -1.68,
+        "re-pred_price": 26844,
         "re-pred_percent": -2.65,
         "pred_future2": [
             {
                 "x": "2023-04-25",
-                "y": 26845
+                "y": 26844
             },
             {
                 "x": "2023-04-26",
@@ -805,7 +805,7 @@
             },
             {
                 "x": "2023-05-02",
-                "y": 32779
+                "y": 32778
             },
             {
                 "x": "2023-05-03",
@@ -1681,9 +1681,9 @@
         "pred_price": 31463,
         "pred_percent": 14.1,
         "now": 27418,
-        "now_percent": -0.57,
-        "future_now_price_diff": 4044,
-        "future_now_percent_diff": 14.67,
+        "now_percent": -0.58,
+        "future_now_price_diff": 4045,
+        "future_now_percent_diff": 14.68,
         "re-pred_price": 31452,
         "re-pred_percent": 14.06,
         "pred_future2": [
@@ -1693,7 +1693,7 @@
             },
             {
                 "x": "2023-05-08",
-                "y": 32018
+                "y": 32017
             },
             {
                 "x": "2023-05-15",
@@ -1725,7 +1725,7 @@
             },
             {
                 "x": "2023-07-03",
-                "y": 35982
+                "y": 35981
             },
             {
                 "x": "2023-07-10",
@@ -1801,7 +1801,7 @@
             },
             {
                 "x": "2023-11-13",
-                "y": 42698
+                "y": 42697
             },
             {
                 "x": "2023-11-20",
@@ -1823,5 +1823,5 @@
         "now_future_direction": "up",
         "past_future_direction": "up"
     },
-    "last_prediction_time": "2023-04-24 11:00"
+    "last_prediction_time": "2023-04-24 11:02"
 }
