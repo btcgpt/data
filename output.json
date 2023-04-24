@@ -768,20 +768,20 @@
         ],
         "pred_price": 26953,
         "pred_percent": -2.26,
-        "now": 27339,
+        "now": 27340,
         "now_percent": -0.86,
         "future_now_price_diff": -386,
         "future_now_percent_diff": -1.4,
-        "re-pred_price": 26790,
+        "re-pred_price": 26791,
         "re-pred_percent": -2.85,
         "pred_future2": [
             {
                 "x": "2023-04-25",
-                "y": 26790
+                "y": 26791
             },
             {
                 "x": "2023-04-26",
-                "y": 27633
+                "y": 27634
             },
             {
                 "x": "2023-04-27",
@@ -797,7 +797,7 @@
             },
             {
                 "x": "2023-04-30",
-                "y": 30925
+                "y": 30926
             },
             {
                 "x": "2023-05-01",
@@ -823,7 +823,7 @@
             },
             {
                 "x": "2023-04-25",
-                "y": 27339
+                "y": 27340
             }
         ],
         "yesterday_prediction_error_price": 230,
@@ -1680,7 +1680,7 @@
         ],
         "pred_price": 31463,
         "pred_percent": 14.1,
-        "now": 27339,
+        "now": 27340,
         "now_percent": -0.86,
         "future_now_price_diff": 4123,
         "future_now_percent_diff": 14.96,
@@ -1705,7 +1705,7 @@
             },
             {
                 "x": "2023-05-29",
-                "y": 33536
+                "y": 33537
             },
             {
                 "x": "2023-06-05",
@@ -1797,7 +1797,7 @@
             },
             {
                 "x": "2023-11-06",
-                "y": 42425
+                "y": 42426
             },
             {
                 "x": "2023-11-13",
@@ -1815,7 +1815,7 @@
             },
             {
                 "x": "2023-05-01",
-                "y": 27339
+                "y": 27340
             }
         ],
         "yesterday_prediction_error_price": -877,
@@ -1823,5 +1823,5 @@
         "now_future_direction": "up",
         "past_future_direction": "up"
     },
-    "last_prediction_time": "2023-04-24 15:21"
+    "last_prediction_time": "2023-04-24 15:22"
 }
