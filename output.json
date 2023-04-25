@@ -768,10 +768,10 @@
         ],
         "pred_price": 27092,
         "pred_percent": -1.58,
-        "now": 27455,
-        "now_percent": -0.27,
+        "now": 27456,
+        "now_percent": -0.26,
         "future_now_price_diff": -363,
-        "future_now_percent_diff": -1.31,
+        "future_now_percent_diff": -1.32,
         "re-pred_price": 27041,
         "re-pred_percent": -1.77,
         "pred_future2": [
@@ -789,7 +789,7 @@
             },
             {
                 "x": "2023-04-29",
-                "y": 29537
+                "y": 29538
             },
             {
                 "x": "2023-04-30",
@@ -813,7 +813,7 @@
             },
             {
                 "x": "2023-05-05",
-                "y": 34925
+                "y": 34926
             }
         ],
         "now_s": [
@@ -823,7 +823,7 @@
             },
             {
                 "x": "2023-04-26",
-                "y": 27455
+                "y": 27456
             }
         ],
         "yesterday_prediction_error_price": -416,
@@ -1680,10 +1680,10 @@
         ],
         "pred_price": 31460,
         "pred_percent": 14.28,
-        "now": 27455,
-        "now_percent": -0.27,
-        "future_now_price_diff": 4004,
-        "future_now_percent_diff": 14.55,
+        "now": 27456,
+        "now_percent": -0.26,
+        "future_now_price_diff": 4003,
+        "future_now_percent_diff": 14.54,
         "re-pred_price": 31455,
         "re-pred_percent": 14.26,
         "pred_future2": [
@@ -1769,11 +1769,11 @@
             },
             {
                 "x": "2023-09-18",
-                "y": 40295
+                "y": 40296
             },
             {
                 "x": "2023-09-25",
-                "y": 40633
+                "y": 40634
             },
             {
                 "x": "2023-10-02",
@@ -1815,7 +1815,7 @@
             },
             {
                 "x": "2023-05-01",
-                "y": 27455
+                "y": 27456
             }
         ],
         "yesterday_prediction_error_price": -877,
@@ -1823,5 +1823,5 @@
         "now_future_direction": "up",
         "past_future_direction": "up"
     },
-    "last_prediction_time": "2023-04-25 01:03"
+    "last_prediction_time": "2023-04-25 01:04"
 }
